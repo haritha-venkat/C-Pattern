@@ -11,18 +11,19 @@ Import the 'System' namespace to use the classes present in the 'System' namespa
 ## Step 2:
 Declare the Main method.
 
-Step 3:
+## Step 3:
 Declare variable n,i,j,space.
 
-Step 4:
+## Step 4:
 Using " Console.Write " print the statement and get the input from user using " Console.ReadLine " .
 
-Step 5:
+## Step 5:
 Using for loop print the required pattern.
 
-Step 6: Print the result.
+## Step 6: Print the result.
 
 ## Program:
+```python
 using System;
 using System.Globalization;
 
@@ -58,6 +59,7 @@ namespace Pattern
         }
     }
 }
+```
 ## Output:
 ![image](https://github.com/haritha-venkat/C-Pattern/assets/121285701/9ad13be6-fd2f-4b88-a84e-0fa4d4feca81)
 
